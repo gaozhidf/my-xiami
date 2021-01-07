@@ -1,0 +1,52 @@
+{
+"status": true,
+"message": "",
+"data": [
+{
+"albumName": "マサミコブシ",
+"artistName": "奥井雅美",
+"publishTime": "2005-05-11"
+},
+{
+"albumName": "どうにもとまらない ~ ノンストップ",
+"artistName": "山本リンダ",
+"publishTime": "2004-12-22"
+},
+{
+"albumName": "女也",
+"artistName": "五月天",
+"publishTime": "2015-06-26"
+},
+{
+"albumName": "こばと。O.S.T.2 桜咲くころ",
+"artistName": "濱剛",
+"publishTime": "2010-03-24"
+},
+{
+"albumName": "こばと。O.S.T.1 春のうたかた",
+"artistName": "濱剛",
+"publishTime": "2010-02-03"
+},
+{
+"albumName": "燕尾蝶",
+"artistName": "梁静茹",
+"publishTime": "2004-09-10"
+},
+{
+"albumName": "功夫 电影原声带",
+"artistName": "黄英华",
+"publishTime": "2004-12-17"
+},
+{
+"albumName": "Oasis & Yiruma",
+"artistName": "Yiruma",
+"publishTime": "2002-06-26"
+},
+{
+"albumName": "A Family Christmas",
+"artistName": "The Piano Guys",
+"publishTime": "2013-10-18"
+}
+],
+"jumpurl": null
+}
